@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Vinícius Dutra</h1>
 <h3 align="center">A software crafter, surfing on the waves of planning and development of web apps and cross platform mobile Apps</h3>
 
-- 🔭 I’m currently working on Grupo Actcon **in several projects**
+- 🔭 I’m currently working on Grupo Actcon **on several projects**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
